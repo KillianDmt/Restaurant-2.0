@@ -60,7 +60,7 @@ The form should at least contain:
 - visit date
 - comment (optional input)
 
-#### Next Thing on time Line![tablDB](https://github.com/user-attachments/assets/c423023a-6207-47cf-b64d-0aa692fba092)
+#### Next Thing on time Line
 
 
 **google sheet API**  For guestbook && Message ? 
